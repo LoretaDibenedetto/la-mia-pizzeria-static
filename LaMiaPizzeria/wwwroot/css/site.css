@@ -20,10 +20,26 @@ html {
 body {
     margin-bottom: 60px;
     background-color: #ffcd86;
+    background-image: url('../NewFolder/ssspot.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.bgi {
+    background-color: #595247;
 }
 
-footer{
 
+footer {
    
-    height:200px;
+
+    width:100%;
+  
+  
+   
+    
+}
+.w {
+    height: 300px;
+    background-color: #595247;
 }
